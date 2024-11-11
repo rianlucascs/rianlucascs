@@ -2,5 +2,5 @@
 
  - Projetos escaláveis ✅
  - Mercado financeiros ✅
- - dados ✅
- - python ✅
+ - Dados ✅
+ - Python ✅
