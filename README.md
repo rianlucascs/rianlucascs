@@ -1,6 +1,6 @@
 Rian Lucas
+
 ---
-Desenvolvedor de soluções escaláveis com foco em dados e mercado financeiro utilizando Python.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Quant](https://img.shields.io/badge/Quant_Student-4B8BBE?style=flat&logo=graphql&logoColor=white)
